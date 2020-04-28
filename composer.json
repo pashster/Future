@@ -2,6 +2,7 @@
     "name": "pashster/future-time-package",
     "description": "Начинаем работать с пакетами",
     "type": "project",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Pavel Shchetkin",
