@@ -9,7 +9,6 @@
             "email": "pasha.schetkin@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload" : {
         "psr-4" : {
             "FutureTime\\" : "src/FutureTime/"
