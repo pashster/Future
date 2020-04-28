@@ -1,0 +1,14 @@
+{
+    "name": "pashster/future-time-package",
+    "description": "Начинаем работать с пакетами",
+    "type": "project",
+    "license": "GNU GPL",
+    "authors": [
+        {
+            "name": "Pavel Shchetkin",
+            "email": "pasha.schetkin@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
