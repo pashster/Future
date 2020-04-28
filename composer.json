@@ -2,7 +2,6 @@
     "name": "pashster/future-time-package",
     "description": "Начинаем работать с пакетами",
     "type": "project",
-    "license": "GNU GPL",
     "authors": [
         {
             "name": "Pavel Shchetkin",
