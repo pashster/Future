@@ -3,7 +3,6 @@
     "description": "Начинаем работать с пакетами",
     "type": "project",
     "version": "1.0.0",
-    "license": "GNU GPL",
     "authors": [
         {
             "name": "Pavel Shchetkin",
