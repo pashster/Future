@@ -1,7 +1,7 @@
 {
     "name": "pashster/future-time-package",
     "description": "Начинаем работать с пакетами",
-    "type": "project",
+    "type": "library",
     "version": "1.0.0",
     "authors": [
         {
